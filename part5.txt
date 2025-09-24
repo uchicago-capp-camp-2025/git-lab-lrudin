@@ -1,4 +1,4 @@
 Earlier in this lab, you created a commit with the commit message "part 1 done".
 What is hash value for this commit?
 
-part 1 done hash: 
+part 1 done hash: 5601c84e9dc027dae443bd651a484ed4283cc5e1
